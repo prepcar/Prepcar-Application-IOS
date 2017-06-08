@@ -1,0 +1,1 @@
+../../../SHViewPager/SHViewPager/Classes/SHViewPagerDelegate.h

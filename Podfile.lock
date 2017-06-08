@@ -1,0 +1,54 @@
+PODS:
+  - ASIHTTPRequest (1.8.2):
+    - ASIHTTPRequest/ASIWebPageRequest (= 1.8.2)
+    - ASIHTTPRequest/CloudFiles (= 1.8.2)
+    - ASIHTTPRequest/Core (= 1.8.2)
+    - ASIHTTPRequest/S3 (= 1.8.2)
+  - ASIHTTPRequest/ASIWebPageRequest (1.8.2):
+    - ASIHTTPRequest/Core
+  - ASIHTTPRequest/CloudFiles (1.8.2):
+    - ASIHTTPRequest/Core
+  - ASIHTTPRequest/Core (1.8.2):
+    - Reachability
+  - ASIHTTPRequest/S3 (1.8.2):
+    - ASIHTTPRequest/Core
+  - GoogleMaps (2.2.0):
+    - GoogleMaps/Maps (= 2.2.0)
+  - GoogleMaps/Base (2.2.0)
+  - GoogleMaps/Maps (2.2.0):
+    - GoogleMaps/Base
+  - GooglePlaces (2.2.0):
+    - GoogleMaps/Base (= 2.2.0)
+  - PodAsset (0.15.0)
+  - Reachability (3.2)
+  - RJImageLoader (0.3.0)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+  - SHViewPager (2.0.7):
+    - PodAsset
+  - TGCameraViewController (2.2.8)
+
+DEPENDENCIES:
+  - ASIHTTPRequest
+  - GoogleMaps
+  - GooglePlaces
+  - RJImageLoader
+  - SDWebImage
+  - SHViewPager
+  - TGCameraViewController
+
+SPEC CHECKSUMS:
+  ASIHTTPRequest: ec013992946676b7978dcbde6396d57312d21db4
+  GoogleMaps: 104c418d61ab8a05dff06ed0784c25ea9d37da45
+  GooglePlaces: bca867d5e9da15384c794b945e4226848bc6e9d9
+  PodAsset: 6b3d72c15e956323a8a5ae3612c5c712f5965657
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  RJImageLoader: f0d9edebeb7837feb0ce51759826900645770db7
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  SHViewPager: 1762822d1694495171d39196260d64f2dd6041fa
+  TGCameraViewController: '0768b534800e6136e70dd3cc5aafe1310b448480'
+
+PODFILE CHECKSUM: c2cafa49476799ef875bd62bdc036684a7a50df2
+
+COCOAPODS: 1.1.0.beta.1
